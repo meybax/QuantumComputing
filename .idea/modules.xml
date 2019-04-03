@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../NumberRecognition/.idea/NumberRecognition.iml" filepath="$PROJECT_DIR$/../NumberRecognition/.idea/NumberRecognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/QuantumComputing.iml" filepath="$PROJECT_DIR$/.idea/QuantumComputing.iml" />
+    </modules>
+  </component>
+</project>
